@@ -7,7 +7,7 @@ pkg update && upgrade -y
 pkg install git -y
 pkg install python -y
 pip install requests
-git clone  https://github.com/IMTIAZ-X/IMTIAZ-X
+git clone https://github.com/IMTIAZ-X/SMS-Bomber.git
 cd IMTIAZ-X
 python SMS Bomber.py
 ````
