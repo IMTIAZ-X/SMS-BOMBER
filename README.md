@@ -8,7 +8,7 @@ pkg install git -y
 pkg install python -y
 pip install requests
 git clone https://github.com/IMTIAZ-X/SMS-Bomber.git
-cd IMTIAZ-X , cd SMS Bomber
+cd IMTIAZ-X , cd SMS Bomber , cd SMS Bomber LIte
 python SMS Bomber.py
 ````
 
