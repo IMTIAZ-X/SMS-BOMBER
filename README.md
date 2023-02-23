@@ -1,5 +1,7 @@
 #### IMTIAZ
-
+<hr>
+<div align="center">After a few days the stomach is update & upgrade</div>
+<hr>
 #### Install
 
 ````bash
