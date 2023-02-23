@@ -1,4 +1,5 @@
 import requests
+import IMTIAZ-X
 
 #GET
 number=str(input(" Enter Your Number : "))
