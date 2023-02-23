@@ -21,10 +21,11 @@ python SMS Bomber.py
 
 
 ## Developers
-  * <a href="https://github.com/IMTIAZ-X">IMTIAZ</a>
+   <div align="center"><a href="https://github.com/IMTIAZ-X">IMTIAZ</a>
 
 
-##### GITHUB : https://github.com/IMTIAZ-X
+### GITHUB Visit : https://github.com/IMTIAZ-X
 
 
-### Thanks. Don't forget to give this project star and follow our github.
+## Thanks. Don't forget to give this project star and follow our github.
+</div>
