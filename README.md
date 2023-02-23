@@ -1,6 +1,6 @@
 #### IMTIAZ
 <hr>
-<div align="center">After a few days the stomach is update & upgrade</div>
+<div align="center">After a few days the is update & upgrade</div>
 <hr>
 #### Install
 
