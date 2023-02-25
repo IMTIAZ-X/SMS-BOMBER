@@ -1,7 +1,7 @@
 import requests
 
 #GET
-number=str(input(" Enter The Number : "))
+number=str(input(" Enter The Number : +88"))
 
 amount=int(input(" Enter The Amount : "))
 
