@@ -12,6 +12,7 @@ pip install requests
 git clone https://github.com/IMTIAZ-X/SMS-Bomber
 cd IMTIAZ-X
 python SMS Bomber.py
+python SMS Bomber Lite.py
 ````
 
 #### Features
